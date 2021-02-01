@@ -4,11 +4,11 @@
 The aim of this notebook is to demostate hypothesis testing process in a data science project.  
 
 ## Formulation of the Hypotheses
-**Null Hypothesis:** The average number of Bluecars picked during the weekday in Area Code 75001 is equal to the ones picked from Area Code 95880
+**Null Hypothesis:** The average number of Bluecars picked during the weekday in city of **Seine-Saint-Denis** is equal to the ones picked the city of **Val-de_Marne**
 
-  Ho : μ1 = μ2 (μ1 is mean for Area Code 75001 and μ2 is mean for Area Code 95800)
+  Ho : μ1 = μ2 (μ1 is mean for Seine-Saint-Denis and μ2 is mean Val-de_Marne)
 
-**Alternate Hypothesis:** The average number of Bluecars picked during the weekday in Area Code 75001 is NOT equal to the ones picked from Area Code 95880
+**Alternate Hypothesis:** The average number of Bluecars picked during the weekday from Seine-Saint-Denis is NOT equal to the ones picked from Val-de_Marne
 
   Ha : μ1 ≠ μ2
 
